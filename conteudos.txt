@@ -1,0 +1,125 @@
+compreensão e análise de textos literários em prosa e em verso de autores brasileiros - crônica, contos e poemas de textos informativos de publicações atuais.
+linguagem - sinonímia e antonímia
+denotação e conotação
+figuras de linguagem
+som, fonema e letras
+sílaba: divisão e classificação
+acentuação e crase
+estrutura e formação das palavras
+morfossintaxe: classes de palavras e suas respectivas funções sintáticas na oração
+frase, oração e período
+os termos da oração
+tipos de sujeito e de predicado
+predicação verbal
+período composto por coordenação
+período composto por subordinação
+colocação de pronomes oblíquos
+concordância nominal e verbal
+pontuação
+ortografia.
+
+texto literário e/ou informativo.
+
+conjunto dos números reais - reta real, subconjuntos, operações, propriedades, expressões numéricas, radicais (propriedades, operações e racionalização de denominadores).
+divisibilidade
+números primos
+decomposição em fatores primos
+divisores de um número
+máximo divisor comum
+múltiplos de um número
+mínimo múltiplo comum.
+sistema métrico decimal: comprimento, área, volume, massa, capacidade
+sistema não decimal: tempo e ângulos.
+razão entre duas grandezas
+razões inversas
+proporção: propriedades.
+grandezas diretamente e inversamente proporcionais
+regra de três simples e composta
+porcentagem.
+equação do 1° grau
+inequação do 1° grau
+sistema de equações do 1° grau
+problemas do 1° grau.
+valor numérico de uma expressão algébrica
+polinômios: operações, m.m.c. e m.d.c.
+produtos notáveis
+fatoração e simplificação de expressões algébricas
+frações algébricas: operações.
+equação do 2° grau
+relação entre os coeficientes e as raízes da equação do 2° grau
+equações fracionárias redutíveis ao 2° grau
+equações biquadradas
+equações irracionais.
+função - conceito, conjunto domínio, conjunto imagem e representação gráfica
+função do 1º grau: conceito, representação gráfica e raiz
+função do 2º grau: conceito, representação gráfica e raízes.
+médias aritmética e ponderada
+gráficos: barras, segmentos e setores.
+elementos fundamentais da Geometria - ponto, reta e plano
+retas paralelas e concorrentes: ângulos - medidas, classificação, complemento, suplemento e replemento
+paralelas interceptadas por uma transversal
+ângulos formados por retas paralelas interceptadas por uma transversal
+propriedades.
+POLÍGONOS: conceito, elementos, classificação, convexidade, ângulos de um polígono e nomenclatura
+número de diagonais
+soma dos ângulos internos e externos de um polígono regular
+definição, elementos, classificação e congruência
+relação entre lados e ângulos
+teorema de Thales e suas consequências
+semelhança de triângulos
+relações métricas no triângulo retângulo
+definição, classificação e propriedades
+conceito e elementos
+medida de arcos e ângulos
+relações métricas na circunferência
+polígonos inscritos e circunscritos na circunferência (lados e apótemas de polígonos regulares)
+triângulos, quadriláteros, polígonos regulares e círculos.
+
+
+O Brasil no contexto da expansão marítima europeia do século XV
+conquista e colonização portuguesa: estrutura administrativa, política econômica e social
+a fundação da cidade de Salvador
+os movimentos de contestação metropolitana: Inconfidência Mineira e Baiana
+o processo de independência
+I e II reinados
+a Bahia no Império
+a República brasileira: da República Velha ao governo neoliberal.
+
+
+BRASIL NA REGIONALIZAÇÃO MUNDIAL: países centrais e periféricos
+continente americano
+MERCOSUL
+o espaço geográfico brasileiro.
+INDUSTRIALIZAÇÃO BRASILEIRA: da colonização aos dias atuais
+estrutura industrial brasileira
+distribuição espacial brasileira
+produção de energia para a indústria
+especialização da indústria brasileira
+O MEIO URBANO: a divisão do trabalho na cidade e no campo
+a urbanização e a industrialização
+rede urbana
+megalópoles
+crescimento urbano brasileiro.
+MEIO RURAL: as novas relações cidade x campo
+a modernização do setor agrícola
+atividade rural e fome
+estrutura fundiária brasileira
+reforma agrária.
+POPULAÇÃO: formação da população brasileira
+estrutura da população
+movimentos migratórios
+a população economicamente ativa (PEA) e distribuição de renda no Brasil.
+COMÉRCIO, TRANSPORTE E COMUNICAÇÕES: indústria moderna e desenvolvimento do setor terciário
+relações comerciais internacionais
+evolução dos transportes
+evolução da comunicação
+elementos e fatores do clima
+hidrografia
+estrutura geológica e relevo
+solo
+vegetação.
+GLOBALIZAÇÃO e DESENVOLVIMENTO: as grandes alianças militares
+o mundo dividido em dois blocos
+o desenvolvimento tecnológico
+transformações econômicas
+a ordem mundial e a soberania dos estados.
