@@ -13,6 +13,8 @@ body {
   background-color: #111;
   color: #ddd;
   font-family: Montserrat;
+  width: 90%;
+  margin: 0 auto;
 }
 
 section {
