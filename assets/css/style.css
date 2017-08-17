@@ -49,6 +49,18 @@ p {
   padding-bottom: 50px;
 }
 
-h3 {
+.conteudos {
+  width: 100%;
+  text-align: justify;
+}
 
+.banner {
+  width: 12vw;
+  margin: 0 auto;
+}
+
+.banner img {
+  width: 12vw;
+  text-align: center;
+  padding: 35px 0;
 }
