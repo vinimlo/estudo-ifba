@@ -15,17 +15,26 @@ body {
   font-family: Montserrat;
 }
 
+section {
+  width: 100%;
+}
+
+header {
+width: 100%;
+}
+
 h2 {
   font-weight: bold;
   font-size: 22px;
   padding: 0 15px;
+  outline: none;
 }
 
 a {
   color: #eee;
   font-family: Montserrat;
   font-size: 18px;
-  padding: 0 25px;
+  margin: 0 25px;
 }
 
 a:hover,
@@ -45,7 +54,7 @@ h3 {
 
 p {
   font-size: 15px;
-  padding: 0 25px;
+  margin: 0 25px;
   padding-bottom: 50px;
 }
 
@@ -62,5 +71,5 @@ p {
 .banner img {
   width: 12vw;
   text-align: center;
-  padding: 50px 0;
+  margin: 50px 0;
 }
