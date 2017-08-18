@@ -13,19 +13,56 @@ body {
   background-color: #111;
   color: #ddd;
   font-family: Montserrat;
-  width: 90%;
-  margin: 0 auto;
 }
 
 section {
   width: 100%;
+  width: 90%;
+  margin: 0 auto;
 }
 
 header {
 width: 100%;
 }
 
+.menu {
+  width: 100%;
+  background-color: #eee;
+  font-family: Montserrat;
+  position: sticky;
+}
+
+.menu ul {
+  padding: 15px 0;
+  text-align: center;
+}
+
+.menu li {
+  display: inline;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #111;
+}
+
+.menu a:hover {
+  text-decoration: none;
+  color: #111;
+  font-weight: bold;
+}
+
+.menu a:active,
+.menu a:focus,
+.menu a:link {
+  color: #111;
+  outline: none;
+}
+
 .conteudos {
+  padding-top: 100px;
   max-width: 100%;
   text-align: justify;
 }
@@ -93,10 +130,30 @@ width: 100%;
   html {
     font-size: 65%;
   }
+
+  .menu li {
+    padding: 0 15px;
+    font-size: 115%;
+  }
+
+  .menu li:hover {
+    background-color: #111;
+    color: #eee;
+  }
 }
 
 @media screen and (min-width: 481px) and (max-width: 768px) {
   html {
     font-size: 85%;
+  }
+
+  .menu li {
+    padding: 0 15px;
+    font-size: 115%;
+  }
+
+  .menu li:hover {
+    background-color: #111;
+    color: #eee;
   }
 }

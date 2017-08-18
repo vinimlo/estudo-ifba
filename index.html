@@ -6,16 +6,26 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="shortcut icon" href="assets/img/ifba.svg">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="IFBA, Estudando para o IFBA, estudos ifba">
+    <meta name="description" content="O estudo-ifba tem por objetivo te ajudar a estudar para o IFBA!">
   </head>
   <body>
+    <div class="banner">
+      <img src="assets/img/ifba.svg" alt="Logotipo IFBA">
+    </div>
     <header>
-      <div class="banner">
-        <img src="assets/img/ifba.svg" alt="Logotipo IFBA">
+      <div class="menu">
+        <ul>
+          <a href="#port"><li>Português</li></a>
+          <a href="#mat"><li>Matemática</li></a>
+          <a href="#hist"><li>História</li></a>
+          <a href="#geo"><li>Geografia</li></a>
+        </ul>
       </div>
     </header>
     <section class="conteudos">
       <div class="links">
-        <h1>Português</h1>
+        <h1 id="port">Português</h1>
         <h2> Um passo para o ifba | ASSUNTOS - Wix.com </h2>
         <a href="http://pukoto5.wixsite.com/umpassoproifba/assuntos" target="_blank"> Acesse o conteúdo aqui </a>
         <p> COMPREENSÃO E ANÁLISE. De textos literários em prosa e em verso de autores brasileiros: crônica, contos e poemas; de textos informativos de publicações atuais. CONHECIMENTOS LINGÜÍSTICOS. Linguagem: sinonímia e antonímia; ... </p>
@@ -262,7 +272,7 @@
         <h3> (Youtube) 2014 Kzu. 17 - Uploaded by Aula Móvel </h3>
         <p> O Professor Diego Amorim, do curso Online Aula Móvel, apresenta seu curso de Interpretação de Texto e ... </p>
 
-        <h1>Matemática</h1>
+        <h1 id="mat">Matemática</h1>
 
         <h2> [PDF] Conjuntos Numéricos</h2>
         <a href="http://www.mat.ufpb.br/bosco/texto.pdf" target="_blank"> Acesse o conteúdo aqui </a>
@@ -919,7 +929,7 @@
         <h3> (Youtube) 2011 Ebr. 10 - Uploaded by nerckie </h3>
         <p> Matemática - Aula 43 - Geometria Plana - Polígonos Regulares- Parte 1 .... Eu sempre vejo o cálculo do ... </p>
 
-        <h1>História</h1>
+        <h1 id="hist">História</h1>
 
         <h2> O Brasil no contexto da expansão marítima europeia do século XV </h2>
         <a href="http://noifba.blogspot.com/2012/10/resumo-historia-o-brasil-no-contexto-da.html" target="_blank"></a>
@@ -1005,7 +1015,7 @@
         <a href="http://www.trabalhosfeitos.com/ensaios/a-Rep%C3%BAblica-Brasileira-Da-Rep%C3%BAblica-Velha/357740.html" target="_blank"></a>
         <p> 2012 Gwen. 14 - Na republica velha, quem mandava eram as oligarquias, tanto as regionais como as nacionais (neste caso, os poderosos </p>
 
-        <h1>Geografia</h1>
+        <h1 id="geo">Geografia</h1>
 
         <h2> A Regionalização do Mundo - Mundo Educação </h2>
         <a href="http://mundoeducacao.bol.uol.com.br/geografia/a-regionalizacao-mundo.htm" target="_blank"></a>
@@ -1416,5 +1426,19 @@
         <p> Acredita-se que o fenômeno da globalização e da nova ordem mundial são ... econômico e político norte-americano, pois a soberania dos outros estados </p>
       </div>
     </section>
+    <script src="lib/js/jquery.js"></script>
+    <script src="lib/js/jquery.sticky.js"></script>
+    <script>
+        $(document).ready(function(){
+          $(".menu").sticky({topSpacing:0});
+        });
+        var $doc = $('html, body');
+        $('a').click(function() {
+        $doc.animate({
+          scrollTop: $( $.attr(this, 'href') ).offset().top
+        }, 800);
+      return false;
+      });
+    </script>
    </body>
 </html>
